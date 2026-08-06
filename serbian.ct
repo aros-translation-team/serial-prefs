@@ -1,0 +1,144 @@
+## version $VER: serialprefs.catalog 1.0 (06.08.2026)
+## language srpski
+## codeset 8
+;
+MSG_CANT_OPEN_LIB
+Ne mogu da otvorim %s V%ld!\n
+; Can't open %s V%ld!\n
+;
+MSG_CANT_LOCK_SCR
+Nije mogu†e zakljuŸati javni ekran!
+; Can't lock public screen!
+;
+MSG_CANT_GET_DRI
+Nije mogu†e dobiti DrawInfo!
+; Can't get DrawInfo!
+;
+MSG_CANT_GET_VI
+Nije mogu†e dobiti VisualInfo!
+; Can't get VisualInfo!
+;
+MSG_CANT_CREATE_GADGET
+Nije mogu†e napraviti ged§ete!
+; Can't create gadgets!
+;
+MSG_CANT_CREATE_MENUS
+Nije mogu†e napraviti menije!
+; Can't create menus!
+;
+MSG_CANT_CREATE_WIN
+Nije mogu†e napraviti prozor!
+; Can't create window!
+;
+MSG_WINTITLE
+Podeçavanja serijskog porta
+; Serial Preferences
+;
+MSG_MEN_PROJECT
+Projekat
+; Project
+;
+MSG_MEN_PROJECT_OPEN
+O\0Otvori...
+; O\0Open...
+;
+MSG_MEN_PROJECT_SAVEAS
+A\0Snimi kao...
+; A\0Save As...
+;
+MSG_MEN_PROJECT_QUIT
+Q\0IzaÐi
+; Q\0Quit
+;
+MSG_MEN_EDIT
+Uredi
+; Edit
+;
+MSG_MEN_EDIT_DEFAULT
+D\0Vrati na osnove
+; D\0Reset to Defaults
+;
+MSG_MEN_EDIT_LASTSAVED
+L\0Poslednje snimljeno
+; L\0Last Saved
+;
+MSG_MEN_EDIT_RESTORE
+R\0Vrati
+; R\0Restore
+;
+MSG_MEN_SETTINGS
+Podeçavanja
+; Settings
+;
+MSG_MEN_SETTINGS_CREATEICONS
+I\0Pravi ikone?
+; I\0Create Icons?
+;
+MSG_ASL_OPEN_TITLE
+UŸitaj podeçavanja serijskog porta
+; Load Serial Preferences
+;
+MSG_ASL_SAVE_TITLE
+Snimi podeçavanja serijskog porta
+; Save Serial Preferences
+;
+MSG_OK
+Ok
+; Ok
+;
+MSG_GAD_SAVE
+Snimi
+; Save
+;
+MSG_GAD_USE
+Koristi
+; Use
+;
+MSG_GAD_CANCEL
+Poniçti
+; Cancel
+;
+MSG_GAD_BAUDRATE
+Bodna brzina
+; Baudrate
+;
+MSG_GAD_PARITY
+Parnost
+; Parity
+;
+MSG_GAD_STOPBITS
+Stop bitovi
+; Stop Bits
+;
+MSG_GAD_DATABITS
+Bitovi podataka
+; Data Bits
+;
+MSG_GAD_INPUTBUFFERSIZE
+VeliŸina ulaznog bafera
+; Input Buffer Size
+;
+MSG_GAD_OUTPUTBUFFERSIZE
+VeliŸina izlaznog bafera
+; Output Buffer Size
+;
+MSG_PARITY_NONE
+Nema
+; None
+;
+MSG_PARITY_EVEN
+Parna
+; Even
+;
+MSG_PARITY_ODD
+Neparna
+; Odd
+;
+MSG_PARITY_MARK
+OznaŸi
+; Mark
+;
+MSG_PARITY_SPACE
+Space
+; Space
+;

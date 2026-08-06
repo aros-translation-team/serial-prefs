@@ -1,0 +1,144 @@
+## version $VER: serialprefs.catalog 1.0 (06.08.2026)
+## language nederlands
+## codeset 0
+;
+MSG_CANT_OPEN_LIB
+Kan %s V%ld niet openen!\n
+; Can't open %s V%ld!\n
+;
+MSG_CANT_LOCK_SCR
+Kan publiek scherm niet vergrendelen!
+; Can't lock public screen!
+;
+MSG_CANT_GET_DRI
+Kan DrawInfo niet verkrijgen!
+; Can't get DrawInfo!
+;
+MSG_CANT_GET_VI
+Kan VisualInfo niet verkrijgen!
+; Can't get VisualInfo!
+;
+MSG_CANT_CREATE_GADGET
+Kan gadgets niet aanmaken!
+; Can't create gadgets!
+;
+MSG_CANT_CREATE_MENUS
+Kan menu's niet aanmaken!
+; Can't create menus!
+;
+MSG_CANT_CREATE_WIN
+Kan venster niet aanmaken!
+; Can't create window!
+;
+MSG_WINTITLE
+Seriële instellingen
+; Serial Preferences
+;
+MSG_MEN_PROJECT
+Project
+; Project
+;
+MSG_MEN_PROJECT_OPEN
+O\0Open...
+; O\0Open...
+;
+MSG_MEN_PROJECT_SAVEAS
+A\0Bewaar als...
+; A\0Save As...
+;
+MSG_MEN_PROJECT_QUIT
+Q\0Einde
+; Q\0Quit
+;
+MSG_MEN_EDIT
+Bewerken
+; Edit
+;
+MSG_MEN_EDIT_DEFAULT
+D\0Herstel standaardinstellingen
+; D\0Reset to Defaults
+;
+MSG_MEN_EDIT_LASTSAVED
+L\0Laatst bewaarde versie
+; L\0Last Saved
+;
+MSG_MEN_EDIT_RESTORE
+R\0Herstel
+; R\0Restore
+;
+MSG_MEN_SETTINGS
+Instellingen
+; Settings
+;
+MSG_MEN_SETTINGS_CREATEICONS
+I\0Iconen aanmaken?
+; I\0Create Icons?
+;
+MSG_ASL_OPEN_TITLE
+Laad seriële instellingen
+; Load Serial Preferences
+;
+MSG_ASL_SAVE_TITLE
+Bewaar seriële instellingen
+; Save Serial Preferences
+;
+MSG_OK
+Ok
+; Ok
+;
+MSG_GAD_SAVE
+Bewaar
+; Save
+;
+MSG_GAD_USE
+Gebruik
+; Use
+;
+MSG_GAD_CANCEL
+Annuleer
+; Cancel
+;
+MSG_GAD_BAUDRATE
+Baudrate
+; Baudrate
+;
+MSG_GAD_PARITY
+Pariteit
+; Parity
+;
+MSG_GAD_STOPBITS
+Stopbits
+; Stop Bits
+;
+MSG_GAD_DATABITS
+Databits
+; Data Bits
+;
+MSG_GAD_INPUTBUFFERSIZE
+Invoerbuffergrootte
+; Input Buffer Size
+;
+MSG_GAD_OUTPUTBUFFERSIZE
+Uitvoerbuffergrootte
+; Output Buffer Size
+;
+MSG_PARITY_NONE
+Geen
+; None
+;
+MSG_PARITY_EVEN
+Even
+; Even
+;
+MSG_PARITY_ODD
+Oneven
+; Odd
+;
+MSG_PARITY_MARK
+Markeren
+; Mark
+;
+MSG_PARITY_SPACE
+Space
+; Space
+;

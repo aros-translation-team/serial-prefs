@@ -1,0 +1,144 @@
+## version $VER: serialprefs.catalog 1.0 (06.08.2026)
+## language türkçe
+## codeset 12
+;
+MSG_CANT_OPEN_LIB
+%s V%ld açýlamadý!\n
+; Can't open %s V%ld!\n
+;
+MSG_CANT_LOCK_SCR
+Genel ekran kilitlenemedi!
+; Can't lock public screen!
+;
+MSG_CANT_GET_DRI
+DrawInfo alýnamadý!
+; Can't get DrawInfo!
+;
+MSG_CANT_GET_VI
+VisualInfo alýnamadý!
+; Can't get VisualInfo!
+;
+MSG_CANT_CREATE_GADGET
+Araç takýmlarý oluþturulamadý!
+; Can't create gadgets!
+;
+MSG_CANT_CREATE_MENUS
+Menüler oluþturulamadý!
+; Can't create menus!
+;
+MSG_CANT_CREATE_WIN
+Pencere oluþturulamadý!
+; Can't create window!
+;
+MSG_WINTITLE
+Seri Port Tercihleri
+; Serial Preferences
+;
+MSG_MEN_PROJECT
+Proje
+; Project
+;
+MSG_MEN_PROJECT_OPEN
+O\0Aç...
+; O\0Open...
+;
+MSG_MEN_PROJECT_SAVEAS
+A\0Farklý kaydet...
+; A\0Save As...
+;
+MSG_MEN_PROJECT_QUIT
+Q\0Çýkýþ
+; Q\0Quit
+;
+MSG_MEN_EDIT
+Düzen
+; Edit
+;
+MSG_MEN_EDIT_DEFAULT
+D\0Varsayýlana Dön
+; D\0Reset to Defaults
+;
+MSG_MEN_EDIT_LASTSAVED
+L\0Son Kaydedilen
+; L\0Last Saved
+;
+MSG_MEN_EDIT_RESTORE
+R\0Kurtar
+; R\0Restore
+;
+MSG_MEN_SETTINGS
+Ayarlar
+; Settings
+;
+MSG_MEN_SETTINGS_CREATEICONS
+I\0Simge Oluþtur?
+; I\0Create Icons?
+;
+MSG_ASL_OPEN_TITLE
+Seri Port Tercihlerini Yükle
+; Load Serial Preferences
+;
+MSG_ASL_SAVE_TITLE
+Seri Port Tercihlerini Kaydet
+; Save Serial Preferences
+;
+MSG_OK
+Tamam
+; Ok
+;
+MSG_GAD_SAVE
+Kaydet
+; Save
+;
+MSG_GAD_USE
+Kullan
+; Use
+;
+MSG_GAD_CANCEL
+Vazgeç
+; Cancel
+;
+MSG_GAD_BAUDRATE
+Baud Hýzý
+; Baudrate
+;
+MSG_GAD_PARITY
+Eþlik
+; Parity
+;
+MSG_GAD_STOPBITS
+Durdurma Bitleri
+; Stop Bits
+;
+MSG_GAD_DATABITS
+Veri Bitleri
+; Data Bits
+;
+MSG_GAD_INPUTBUFFERSIZE
+Giriþ Tamponu Boyutu
+; Input Buffer Size
+;
+MSG_GAD_OUTPUTBUFFERSIZE
+Çýkýþ Tamponu Boyutu
+; Output Buffer Size
+;
+MSG_PARITY_NONE
+Hiçbiri
+; None
+;
+MSG_PARITY_EVEN
+Çift
+; Even
+;
+MSG_PARITY_ODD
+Tek
+; Odd
+;
+MSG_PARITY_MARK
+Ýþaretle
+; Mark
+;
+MSG_PARITY_SPACE
+Boþluk
+; Space
+;

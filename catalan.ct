@@ -1,0 +1,144 @@
+## version $VER: serialprefs.catalog 1.0 (06.08.2026)
+## language català
+## codeset 0
+;
+MSG_CANT_OPEN_LIB
+No es pot obrir %s V%ld!\n
+; Can't open %s V%ld!\n
+;
+MSG_CANT_LOCK_SCR
+No es pot bloquejar la pantalla pública!
+; Can't lock public screen!
+;
+MSG_CANT_GET_DRI
+No es pot obtenir el DrawInfo!
+; Can't get DrawInfo!
+;
+MSG_CANT_GET_VI
+No es pot obtenir el VisualInfo!
+; Can't get VisualInfo!
+;
+MSG_CANT_CREATE_GADGET
+No es poden crear els gadgets!
+; Can't create gadgets!
+;
+MSG_CANT_CREATE_MENUS
+No es poden crear els menús!
+; Can't create menus!
+;
+MSG_CANT_CREATE_WIN
+No es pot crear la finestra!
+; Can't create window!
+;
+MSG_WINTITLE
+Preferències de sèrie
+; Serial Preferences
+;
+MSG_MEN_PROJECT
+Projecte
+; Project
+;
+MSG_MEN_PROJECT_OPEN
+O\0Obrir...
+; O\0Open...
+;
+MSG_MEN_PROJECT_SAVEAS
+A\0Desar com...
+; A\0Save As...
+;
+MSG_MEN_PROJECT_QUIT
+Q\0Sortir
+; Q\0Quit
+;
+MSG_MEN_EDIT
+Editar
+; Edit
+;
+MSG_MEN_EDIT_DEFAULT
+D\0Reset per defecte
+; D\0Reset to Defaults
+;
+MSG_MEN_EDIT_LASTSAVED
+L\0Últim desat
+; L\0Last Saved
+;
+MSG_MEN_EDIT_RESTORE
+R\0Restaurar
+; R\0Restore
+;
+MSG_MEN_SETTINGS
+Paràmetres
+; Settings
+;
+MSG_MEN_SETTINGS_CREATEICONS
+I\0Crear icones?
+; I\0Create Icons?
+;
+MSG_ASL_OPEN_TITLE
+Carregar preferències de sèrie
+; Load Serial Preferences
+;
+MSG_ASL_SAVE_TITLE
+Desar preferències de sèrie
+; Save Serial Preferences
+;
+MSG_OK
+D'acord
+; Ok
+;
+MSG_GAD_SAVE
+Desar
+; Save
+;
+MSG_GAD_USE
+Usar
+; Use
+;
+MSG_GAD_CANCEL
+Cancel.lar
+; Cancel
+;
+MSG_GAD_BAUDRATE
+Velocitat en bauds
+; Baudrate
+;
+MSG_GAD_PARITY
+Paritat
+; Parity
+;
+MSG_GAD_STOPBITS
+Bits d'aturada
+; Stop Bits
+;
+MSG_GAD_DATABITS
+Bits de dades
+; Data Bits
+;
+MSG_GAD_INPUTBUFFERSIZE
+Mida del buffer d'entrada
+; Input Buffer Size
+;
+MSG_GAD_OUTPUTBUFFERSIZE
+Mida del buffer de sortida
+; Output Buffer Size
+;
+MSG_PARITY_NONE
+Cap
+; None
+;
+MSG_PARITY_EVEN
+Parell
+; Even
+;
+MSG_PARITY_ODD
+Senar
+; Odd
+;
+MSG_PARITY_MARK
+Marcar
+; Mark
+;
+MSG_PARITY_SPACE
+Espai
+; Space
+;
